@@ -1,5 +1,5 @@
-# hello-world
-# first repository
-# python 
-# hugerf's  first code test
+#first repository
+hello-world
+python 
+hugerf's  first code test
 print ('hello world')
